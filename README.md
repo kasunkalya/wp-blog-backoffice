@@ -56,18 +56,16 @@ Includes syncing posts from WordPress, creating/editing posts, and a responsive 
 
 3. Install Node dependencies:
    ```bash
-   npm install   
+   npm install
 
-
- 
 ## Configuration
 
 1. Copy .env.example to .env:
-  ```bash
-  cp .env.example .env
+   ```bash
+   cp .env.example .env
 
 2. Set your database credentials in .env:
-  ```bash
+   ```bash
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306

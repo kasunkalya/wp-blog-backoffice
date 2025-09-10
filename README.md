@@ -55,8 +55,10 @@ Includes syncing posts from WordPress, creating/editing posts, and a responsive 
    composer install
 
 3. Install Node dependencies:
-  ```bash
-  npm install  
+   ```bash
+   npm install   
+
+
  
 ## Configuration
 

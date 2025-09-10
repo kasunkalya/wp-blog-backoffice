@@ -57,8 +57,23 @@ Includes syncing posts from WordPress, creating/editing posts, and a responsive 
 3. Install Node dependencies:
   ```bash
   npm install
-  
----
+
+## Configuration
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/kasunkalya/wp-blog-backoffice.git
+   cd wp-blog-backoffice
+
+
+2. Install PHP dependencies:
+   ```bash
+   composer install
+
+3. Install Node dependencies:
+  ```bash
+  npm install
+ 
 ## Configuration
 
 1. Copy .env.example to .env:
